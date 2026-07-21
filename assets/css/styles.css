@@ -209,6 +209,24 @@ p {
     width: 100%;
 }
 
+.lang-switch {
+    background: var(--green-100);
+    color: var(--green-800) !important;
+    padding: 0.3rem 0.7rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+}
+
+.lang-switch::after {
+    display: none !important;
+}
+
+.lang-switch:hover {
+    background: var(--green-200);
+}
+
 /* ============================================
    Hero
    ============================================ */
