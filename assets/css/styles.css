@@ -329,6 +329,13 @@ p {
     border-radius: 5px;
 }
 
+.btn-icon-svg {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    color: var(--white);
+}
+
 /* ============================================
    Cards Grid
    ============================================ */
@@ -452,6 +459,13 @@ p {
     border-radius: 6px;
 }
 
+.contact-icon-svg {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    color: var(--white);
+}
+
 .contact-emoji {
     font-size: 1.4rem;
 }
@@ -563,6 +577,85 @@ p {
     .footer-inner {
         flex-direction: column;
         text-align: center;
+    }
+}
+
+/* ============================================
+   Training / Formaciones Page
+   ============================================ */
+.training-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.training-card {
+    background: var(--white);
+    padding: 2rem;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--neutral-200);
+    transition: var(--transition);
+}
+
+.training-card:hover {
+    border-color: var(--green-400);
+    box-shadow: var(--shadow-md);
+    transform: translateY(-3px);
+}
+
+.training-card-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+.training-card-link::after {
+    content: '→ Ver programa';
+    display: block;
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--green-700);
+}
+
+.training-card h3 {
+    color: var(--green-800);
+    font-size: 1.15rem;
+    margin-bottom: 0.4rem;
+}
+
+.training-tagline {
+    font-style: italic;
+    color: var(--green-600);
+    font-size: 0.9rem;
+    margin-bottom: 0.8rem;
+}
+
+.training-card > p {
+    font-size: 0.93rem;
+    line-height: 1.6;
+    color: var(--neutral-700);
+}
+
+.training-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1rem;
+    padding-top: 0.8rem;
+    border-top: 1px solid var(--neutral-200);
+}
+
+.training-meta span {
+    font-size: 0.82rem;
+    color: var(--neutral-600);
+}
+
+@media (max-width: 700px) {
+    .training-grid {
+        grid-template-columns: 1fr;
     }
 }
 
