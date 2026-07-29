@@ -365,11 +365,29 @@ p {
 
 .card-icon {
     font-size: 2.2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.3rem;
+    text-align: center;
 }
 
 .card h3 {
     color: var(--green-800);
+    margin-top: 0.8rem;
+}
+
+.card-technique {
+    display: block;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--green-700);
+    background: var(--green-100);
+    padding: 0.25rem 0.6rem;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
 }
 
 .card p {
