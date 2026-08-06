@@ -754,6 +754,7 @@ p {
     grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
     margin-top: 2rem;
+    clear: both;
 }
 
 .value-item {
