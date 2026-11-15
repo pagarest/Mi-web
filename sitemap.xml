@@ -170,6 +170,29 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/formaciones/chemsex.html"/>
   </url>
 
+  <!-- Psicología / Psychology -->
+  <url>
+    <loc>https://publicspeaking.es/psicologia.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/psicologia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/psychology.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/psicologia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/psicologia.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/en/psychology.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/psicologia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/psychology.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/psicologia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/psicologia.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/pt/psicologia.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/psicologia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/psychology.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/psicologia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/psicologia.html"/>
+  </url>
+
   <!-- Cookies -->
   <url>
     <loc>https://publicspeaking.es/cookies.html</loc>
