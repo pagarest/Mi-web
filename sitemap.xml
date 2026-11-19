@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://publicspeaking.es/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/index.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/en/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/index.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/pt/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/index.html"/>
+  </url>
+
+  <!-- About / Psicólogo -->
+  <url>
+    <loc>https://publicspeaking.es/psicologo.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/psicologo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/psychologist.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/psicologo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/psicologo.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/en/psychologist.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/psicologo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/psychologist.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/psicologo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/psicologo.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/pt/psicologo.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/psicologo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/psychologist.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/psicologo.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/psicologo.html"/>
+  </url>
+
+  <!-- Formaciones / Training -->
+  <url>
+    <loc>https://publicspeaking.es/formaciones.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/formaciones.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/training.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/formacoes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/formaciones.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/en/training.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/formaciones.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/training.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/formacoes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/formaciones.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/pt/formacoes.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/formaciones.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/training.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/formacoes.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/formaciones.html"/>
+  </url>
+
+  <!-- Blog listing -->
+  <url>
+    <loc>https://publicspeaking.es/blog.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/blog.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/en/blog.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/blog.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/pt/blog.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/blog.html"/>
+  </url>
+
+  <!-- Blog post: FOMO (Spanish only) -->
+  <url>
+    <loc>https://publicspeaking.es/blog/fomo-coste-oportunidad.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/blog/fomo-coste-oportunidad.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/blog/fomo-coste-oportunidad.html"/>
+  </url>
+
+  <!-- Training: Hablar en público / Public Speaking -->
+  <url>
+    <loc>https://publicspeaking.es/formaciones/hablar-en-publico.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/formaciones/hablar-en-publico.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/training/public-speaking.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/formacoes/falar-em-publico.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/formaciones/hablar-en-publico.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/en/training/public-speaking.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/formaciones/hablar-en-publico.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/training/public-speaking.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/formacoes/falar-em-publico.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/formaciones/hablar-en-publico.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/pt/formacoes/falar-em-publico.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/formaciones/hablar-en-publico.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/training/public-speaking.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/formacoes/falar-em-publico.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/formaciones/hablar-en-publico.html"/>
+  </url>
+
+  <!-- Training: Comunicación / Communication -->
+  <url>
+    <loc>https://publicspeaking.es/formaciones/comunicacion.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/formaciones/comunicacion.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/training/communication.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/formacoes/comunicacao.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/formaciones/comunicacion.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/en/training/communication.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/formaciones/comunicacion.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/training/communication.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/formacoes/comunicacao.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/formaciones/comunicacion.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/pt/formacoes/comunicacao.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/formaciones/comunicacion.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/training/communication.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/formacoes/comunicacao.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/formaciones/comunicacion.html"/>
+  </url>
+
+  <!-- Training: Chemsex -->
+  <url>
+    <loc>https://publicspeaking.es/formaciones/chemsex.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/formaciones/chemsex.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/training/chemsex.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/formacoes/chemsex.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/formaciones/chemsex.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/en/training/chemsex.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/formaciones/chemsex.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/training/chemsex.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/formacoes/chemsex.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/formaciones/chemsex.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/pt/formacoes/chemsex.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/formaciones/chemsex.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/training/chemsex.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/formacoes/chemsex.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/formaciones/chemsex.html"/>
+  </url>
+
+  <!-- Psicología / Psychology -->
+  <url>
+    <loc>https://publicspeaking.es/psicologia.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/psicologia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/psychology.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/psicologia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/psicologia.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/en/psychology.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/psicologia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/psychology.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/psicologia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/psicologia.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/pt/psicologia.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/psicologia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/psychology.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/psicologia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/psicologia.html"/>
+  </url>
+
+  <!-- Cookies -->
+  <url>
+    <loc>https://publicspeaking.es/cookies.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/cookies.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/en/cookies.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/cookies.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/pt/cookies.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/cookies.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/cookies.html"/>
+  </url>
+
+  <!-- Privacy -->
+  <url>
+    <loc>https://publicspeaking.es/privacidad.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/privacidade.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/privacidad.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/en/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/privacidade.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/privacidad.html"/>
+  </url>
+  <url>
+    <loc>https://publicspeaking.es/pt/privacidade.html</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://publicspeaking.es/privacidad.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://publicspeaking.es/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://publicspeaking.es/pt/privacidade.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://publicspeaking.es/privacidad.html"/>
+  </url>
+
+</urlset>
